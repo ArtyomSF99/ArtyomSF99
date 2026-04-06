@@ -52,5 +52,5 @@ As a **Tech Lead**, I own projects end-to-end—from database schema design to f
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArtomSF99&show_icons=true&theme=radical" alt="Artyom's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArtyomSF99&show_icons=true&theme=radical" alt="Artyom's GitHub Stats" />
 </p>

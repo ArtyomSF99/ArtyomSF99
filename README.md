@@ -51,6 +51,14 @@ As a **Tech Lead**, I own projects end-to-end—from database schema design to f
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArtyomSF99&show_icons=true&theme=radical" alt="Artyom's GitHub Stats" />
+---
+
+### 📊 GitHub Activity
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=ArtyomSF99&show_icons=true&theme=radical&hide_border=true" alt="Artyom's GitHub Stats" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtyomSF99&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>

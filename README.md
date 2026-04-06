@@ -47,10 +47,10 @@ As a **Tech Lead**, I own projects end-to-end—from database schema design to f
 * **LinkedIn:** [Artyom Gulgulyan](www.linkedin.com/in/artyom-g-sf)
 * **Email:** [artyom.gulgulyan.2013@gmail.com](mailto:artyom.gulgulyan.2013@gmail.com)
 * **Telegram:** [@ArtyomSF](https://t.me/ArtyomSF)
-* **Instagram:** [artyom_gulgulyan]([https://t.me/ArtyomSF](https://www.instagram.com/artyom_gulgulyan))
+* **Instagram:** [artyom_gulgulyan](https://www.instagram.com/artyom_gulgulyan)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Artyom's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArtomSF99&show_icons=true&theme=radical" alt="Artyom's GitHub Stats" />
 </p>

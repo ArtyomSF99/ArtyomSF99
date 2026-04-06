@@ -51,14 +51,12 @@ As a **Tech Lead**, I own projects end-to-end—from database schema design to f
 
 ---
 
----
-
-### 📊 GitHub Activity
+### 📊 Engineering Metrics
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ArtyomSF99&show_icons=true&theme=radical&hide_border=true" alt="Artyom's GitHub Stats" />
+  <img src="https://metrics.lecoq.io/ArtyomSF99?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&config.timezone=Asia%2FYerevan" alt="Artyom's Metrics" />
 </p>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtyomSF99&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArtyomSF99&theme=radical&hide_border=true" alt="Artyom's Streak" />
 </p>
